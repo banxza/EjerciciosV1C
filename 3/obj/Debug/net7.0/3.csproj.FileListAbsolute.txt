@@ -1,0 +1,15 @@
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\bin\Debug\net7.0\3.exe
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\bin\Debug\net7.0\3.deps.json
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\bin\Debug\net7.0\3.runtimeconfig.json
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\bin\Debug\net7.0\3.dll
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\bin\Debug\net7.0\3.pdb
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\obj\Debug\net7.0\3.csproj.AssemblyReference.cache
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\obj\Debug\net7.0\3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\obj\Debug\net7.0\3.AssemblyInfoInputs.cache
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\obj\Debug\net7.0\3.AssemblyInfo.cs
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\obj\Debug\net7.0\3.csproj.CoreCompileInputs.cache
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\obj\Debug\net7.0\3.dll
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\obj\Debug\net7.0\refint\3.dll
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\obj\Debug\net7.0\3.pdb
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\obj\Debug\net7.0\3.genruntimeconfig.cache
+D:\Carrera Técnica\SEMESTRE 3\CARLOS VEGA\algoritmia\C# ejercicios\Desde 0\TR1\3\obj\Debug\net7.0\ref\3.dll
